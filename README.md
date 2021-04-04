@@ -12,21 +12,23 @@ You should see this screen:
 
 *of course yours wouldn't be blanked out, and it would contain all of your data.*
 
-# Options
+# Save Data
 The program gives you a choice whether you would like the data to be saved (to a .txt) or not.
 
 **Options:**
 
-Y:
+**Y:**
 
 ![image](https://user-images.githubusercontent.com/75194878/113512776-15321400-955e-11eb-98a0-456e45183661.png)
 ![image](https://user-images.githubusercontent.com/75194878/113512832-67733500-955e-11eb-980d-81bb10ca7a12.png)
 
-N:
+**N:**
 
 ![image](https://user-images.githubusercontent.com/75194878/113512786-20853f80-955e-11eb-9460-e006cf55472e.png)
+
 *(no file is saved.)*
 
 # Info
 This can be implemented into Remote Administrative Tools, where the data is transfered through sockets instead.
+You may fork/change code inside this tool, but please give credit where it's due, and don't take out my tag 🤙
 
