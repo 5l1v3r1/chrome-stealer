@@ -30,5 +30,6 @@ The program gives you a choice whether you would like the data to be saved (to a
 
 # Info
 This can be implemented into Remote Administrative Tools, where the data is transfered through sockets instead.
+
 You may fork/change code inside this tool, but please give credit where it's due, and don't take out my tag 🤙
 
