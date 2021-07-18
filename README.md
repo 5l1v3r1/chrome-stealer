@@ -1,5 +1,5 @@
 # ChromeStealer 🎯
-Displays/Saves all available Chrome Data. Simple to use.
+ChromeStealer 🎯 Displays/Saves all Valuable Chrome Data with a POGGERS UI.
 
 # Usage 👿
 Startup:
