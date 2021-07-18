@@ -1,7 +1,7 @@
-# Chrome-Grabber
+# ChromeStealer 🎯
 Displays/Saves all available Chrome Data. Simple to use.
 
-# How-To-Use
+# Usage 👿
 Startup:
 
     python main.py
@@ -28,7 +28,7 @@ The program gives you a choice whether you would like the data to be saved (to a
 
 *(no file is saved.)*
 
-# Info
+# Final Notes 📝
 This can be implemented into Remote Administrative Tools, where the data is transfered through sockets instead.
 
 You may fork/change code inside this tool, but please give credit where it's due, and don't take out my tag 🤙
